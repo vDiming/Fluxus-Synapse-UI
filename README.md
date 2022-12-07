@@ -3,7 +3,6 @@ Custom Synapse X user interface, by me. A custom Synapse X user interface with t
  
  • Fluxus Based UI
  • Easy Installation
- • NET Framework 4.8 Required
  • And Much More!
  
 # Screenshots
@@ -13,6 +12,7 @@ Custom Synapse X user interface, by me. A custom Synapse X user interface with t
  
 # Installation
 Simply download the exe simply from the github. Once done drag it into your Synapse X main directory make sure the "sxlibb.dll" file is also in your main Synapse X directory.
+You also must install NET Framework 4.8 Required or it will open and close in a loop.
 
 # Notes
 For Support Join The Discord, sometimes when you first download it it will be buggy, but the support in the discord will help you find out what to do to fix the errors. (Trust me the ui works you just need to install it right)
