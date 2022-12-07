@@ -3,6 +3,7 @@ Custom Synapse X user interface, by me. A custom Synapse X user interface with t
  
  • Fluxus Based UI
  • Easy Installation
+ • NET Framework 4.8 Required
  • And Much More!
  
 # Screenshots
